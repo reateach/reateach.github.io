@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# GitHub Class Repository
 
 
 
