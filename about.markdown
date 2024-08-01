@@ -4,7 +4,5 @@ title: About
 permalink: /about/
 ---
 
-
-
-
-[docrea]: https://docrea.org
+## docrea teaching portal
+### Main site at [docrea](https://docrea.org)
