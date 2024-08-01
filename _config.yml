@@ -23,6 +23,7 @@ email: rea@wmich.edu
 description: This is the docrea teaching portal.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_username: docrea
 linkedin_username: docrea
 twitter_username: docrea
 github_username:  readoc
