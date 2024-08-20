@@ -6,7 +6,7 @@ permalink: /classes/
 
 ## Fall 2024 Classes
 
-### CYIS 3900: Secure Web Applications and Technologies
+### <font color="#ff00ff">CYIS 3900</font>: Secure Web Applications and Technologies
 
 
 ### CYIS 4910: Cybersecurity Capstone 1
