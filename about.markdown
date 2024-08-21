@@ -4,5 +4,11 @@ title: About
 permalink: /about/
 ---
 
-## docrea teaching portal
-### Main site at [docrea](https://docrea.org)
+# docrea teaching portal
+
+## Links to Github areas, WMU resources, and external guides
+
+If a resource link is not available here, check 
+
+* elearning 
+* [docrea website](https://docrea.org)

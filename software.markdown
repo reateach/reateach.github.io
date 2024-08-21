@@ -1,24 +1,10 @@
 ---
 layout: page
-title: Software Resources
-permalink: /resources/software
+title: Software
+permalink: /software/
 ---
 
-# Software to use
-
-
-## Fall 2024 Classes
-
-### CYIS 3900: Secure Web Applications and Technologies
-
-
-### CYIS 4910: Cybersecurity Capstone 1
-
-
-### CIS 4990: Enterprise Project
-
-
-### CYIS 6710: Information Assurance and Security
+# Software Resources
 
 
 
