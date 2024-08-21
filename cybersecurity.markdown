@@ -6,13 +6,10 @@ permalink: /cybersecurity/
 
 # Cybersecurity Resources
 
-* [News Feeds](https://docrea.org/security/news.php)
-
-* [WMU Library Guide](https://libguides.wmich.edu/cybersecurity)
-
-* [SANS Reading Room](https://www.sans.org/white-papers/)
-
-* [NIST SP 800 Series](https://csrc.nist.gov/publications/sp800)
+* [News Feeds](https://docrea.org/security/news.php){:target="_blank"}: Scrolling RSS News Feeds
+* [WMU Library Guide](https://libguides.wmich.edu/cybersecurity){:target="_blank"}Librarian Curated Links to Resources such as the ACM Digital Library
+* [SANS Reading Room](https://www.sans.org/white-papers/){:target="_blank"}Academic and Technical White Papers
+* [NIST SP 800 Series](https://csrc.nist.gov/publications/sp800){:target="_blank"}Information Security Frameworks, Guides, and Standards
 
 
 
