@@ -4,7 +4,7 @@ title: Cybersecurity
 permalink: /cybersecurity/
 ---
 
-# Cybersecurity Resources
+# Content and News Resources
 
 * [News Feeds](https://docrea.org/security/news.php){:target="_blank"}: Scrolling RSS News Feeds
 * [WMU Library Guide](https://libguides.wmich.edu/cybersecurity){:target="_blank"}: Librarian Curated Links to Resources such as the ACM Digital Library

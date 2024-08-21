@@ -6,7 +6,7 @@ permalink: /writing/
 
 # Writing Resources
 
-
+## PENDING
 
 
 
