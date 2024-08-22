@@ -1,5 +1,7 @@
 ---
 layout: home
+title: Teaching Resources
+permalink: /index/
 ---
 
 # Links to Github areas, WMU resources, and external guides
