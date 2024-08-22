@@ -8,7 +8,7 @@ permalink: /software/
 
 ## Office365 and WebEx
 
-* [Office365](https://wexhcnage.wmich.edu){:target="_blank"}: Access Office365 Online or Download Software
+* [Office365](https://wexchanage.wmich.edu){:target="_blank"}: Access Office365 Online or Download Software
 * [Teams](https://teams.microsoft.com){:target="_blank"}: Download MS Teams software 
 * [WebEx](https://wmich.webex.com){:target="_blank"}: Access WebEx Online or Download Software
 

@@ -16,7 +16,7 @@ permalink: /helpdesk/
 
 ## WMU Technology
 
-* [Technololgy Help Desk](https://wmich.edu/it/helpdesk){:target="_blank"}: Help Desk 
+* [Technology Help Desk](https://wmich.edu/it/helpdesk){:target="_blank"}: Help Desk 
 * [IT Policies](https://wmich.edu/it/rules){:target="_blank"}: Rules, Guidelines, and Policies
 * [Laptop Lending](https://wmich.libanswers.com/faq/293728){:target="_blank"}: Borrowing or Purchasing a Laptop
 
