@@ -8,5 +8,5 @@ permalink: /about/
 
 If a resource link is not available here, check 
 
-* [eLearning](elearning.wmich.edu)
+* [eLearning](https://elearning.wmich.edu)
 * [docrea website](https://docrea.org)
