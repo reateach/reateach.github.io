@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# docrea teaching portal
-
-## Links to Github areas, WMU resources, and external guides
+# Links to Github areas, WMU resources, and external guides
 
 If a resource link is not available here, check 
 
-* elearning 
+* [eLearning](elearning.wmich.edu)
 * [docrea website](https://docrea.org)

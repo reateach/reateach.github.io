@@ -17,7 +17,7 @@ permalink: /writing/
 
 
 ## Other Resources
-* [Executive Summary Guide](https://wmich.edu/business/executivesummary}{:target="_blank"}: Tips on Writing a Good Executive Summary
+* [Executive Summary Guide](https://wmich.edu/business/executivesummary){:target="_blank"}: Tips on Writing a Good Executive Summary
 
 
 
