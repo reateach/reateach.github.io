@@ -17,7 +17,20 @@ permalink: /agile/
 ### UML
 
 * [Brief UML Tutorial](https://sparxsystems.com/resources/tutorials/uml/part1.html){:target="_blank"}: Sparx Systems Short UML Tutorial 
-* [UML Tutorials](https://sparxsystems.com/resources/tutorials/uml2/){:target="_blank"}: Sparx Systems collection of UML tutorials
+
+* [Use Case](https://sparxsystems.com/resources/tutorials/uml2/use-case-diagram.html){:target="_blank"}: We tend to use these quite often
+* [Activity](https://sparxsystems.com/resources/tutorials/uml2/activity-diagram.html){:target="_blank"}: Good for displaying sequences of events
+* [Communication](https://sparxsystems.com/resources/tutorials/uml2/communication-diagram.html){:target="_blank"}: Used to represent collaboration (former diagram name)
+* [Class Diagram](https://sparxsystems.com/resources/tutorials/uml2/class-diagram.html){:target="_blank"}: Use these for OOP software development
+* [Component Diagram](https://sparxsystems.com/resources/tutorials/uml2/component-diagram.html){:target="_blank"}: Higher level view of components
+* [More UML Tutorials](https://sparxsystems.com/resources/tutorials/uml2/){:target="_blank"}: Sparx Systems collection of UML tutorials
+
+
+
+
+
+
+
 
 ### Sprint/Iteration
 
