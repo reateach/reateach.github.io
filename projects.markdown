@@ -14,8 +14,8 @@ Teams can see each other's sites, but can only modify their own sites.
 
 ### Sample Sites
 
-* [Team Awesome](https://github.com/orgs/reaclass/projects/1){:target="_blank"}: Sample with Project Board (CIS and CYIS)
-* [MiniProject](https://github.com/reaclass/MiniProject): TDD Mini-Project (CYIS)
+* [Team Awesome](https://github.com/reaclass/Awesome){:target="_blank"}: Sample with Project Board (CIS and CYIS)
+* [MiniProject](https://github.com/reaclass/MiniProject){:target="_blank"}: TDD Mini-Project (CYIS)
 
 ### CYIS 4910: Cybersecurity Capstone 1
 
