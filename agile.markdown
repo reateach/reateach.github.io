@@ -6,8 +6,6 @@ permalink: /agile/
 
 # Agile Resources
 
-* [Team Awesome](https://github.com/orgs/reaclass/projects/1){:target="_blank"}: Sample Project Board (need organization access)
-
 ### KanBan
 
 * [KanBan Overview](https://www.atlassian.com/agile/kanban){:target="_blank"}: Good overview from Atlassian
@@ -23,13 +21,6 @@ permalink: /agile/
 * [Class Diagram](https://sparxsystems.com/resources/tutorials/uml2/class-diagram.html){:target="_blank"}: OOP software development
 * [Component Diagram](https://sparxsystems.com/resources/tutorials/uml2/component-diagram.html){:target="_blank"}: Higher level view of components
 * [More UML Tutorials](https://sparxsystems.com/resources/tutorials/uml2/){:target="_blank"}: Sparx Systems collection of UML tutorials
-
-
-
-
-
-
-
 
 ### Sprint/Iteration
 
