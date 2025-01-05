@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# Fall 2024 Class Projects
+# Spring 2025 Class Projects
 
 #### All require GitHub Class Access
 
@@ -17,23 +17,16 @@ Teams can see each other's sites, but can only modify their own sites.
 * [Team Awesome](https://github.com/reaclass/Awesome){:target="_blank"}: Sample with Project Board (CIS and CYIS)
 * [MiniProject](https://github.com/reaclass/MiniProject){:target="_blank"}: TDD Mini-Project (CYIS)
 
-### CYIS 4910: Cybersecurity Capstone 1
+### CYIS 4920: Cybersecurity Capstone 2
 
 * [Bronco Omega: IDPS](https://github.com/reaclass/IDPS){:target="_blank"}
-* [EII Initiative: SIEM](https://github.com/reaclass/SIEM){:target="_blank"}
+* [EI Initiative: SIEM](https://github.com/reaclass/SIEM){:target="_blank"}
 
-### CYIS 4910: TDD MiniProject
-
-* [Bronco Omega MiniProject](https://github.com/reaclass/MiniProject_Omega){:target="_blank"}
-* [EII Initiative MiniProject](https://github.com/reaclass/MiniProject_EII){:target="_blank"}
 
 
 ### CIS 4990: Enterprise Project
 
-* [Agile Avengers: AppsAnywhere](https://github.com/reaclass/AppsAnywhere){:target="_blank"}
-* [KORT: Salesforce](https://github.com/reaclass/Salesforce){:target="_blank"}
-* [MightyBytes: Classroom Technology](https://github.com/reaclass/ClassroomTechnology){:target="_blank"}
-
+* Forthcoming!
 
 
 
