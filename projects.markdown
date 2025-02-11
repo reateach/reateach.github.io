@@ -26,7 +26,8 @@ Teams can see each other's sites, but can only modify their own sites.
 
 ### CIS 4990: Enterprise Project
 
-* Forthcoming!
+* [SHC](https://github.com/reaclass/SHC){:target="_blank"}
+* [SPuRS](https://github.com/reaclass/SPuRS){:target="_blank"}
 
 
 
