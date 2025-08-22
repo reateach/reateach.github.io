@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-# Spring 2025 Class Projects
+# Fall 2025 Class Projects
 
 #### All require GitHub Class Access
 
@@ -19,15 +19,12 @@ Teams can see each other's sites, but can only modify their own sites.
 
 ### CYIS 4920: Cybersecurity Capstone 2
 
-* [Bronco Omega: IDPS](https://github.com/reaclass/IDPS){:target="_blank"}
-* [EI Initiative: SIEM](https://github.com/reaclass/SIEM){:target="_blank"}
-
+* Forthcoming
 
 
 ### CIS 4990: Enterprise Project
 
-* [SHC](https://github.com/reaclass/SHC){:target="_blank"}
-* [SPuRS](https://github.com/reaclass/SPuRS){:target="_blank"}
+* Forthcoming
 
 
 
