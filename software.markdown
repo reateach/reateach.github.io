@@ -13,6 +13,13 @@ permalink: /software/
 * [WebEx](https://wmich.webex.com){:target="_blank"}: Access WebEx Online or Download Software
 
 
+## Diagramming
+
+* [MS Visio](https://www.microsoft.com/en-us/microsoft-365/visio/visio-in-microsoft-365?msockid=0d58dd500e8a6a0b1f45cb7f0f996b23){:target="_blank"}: MS Visio Online or Download Software
+* [Draw.io](https://www.drawio.com/){:target="_blank"}: Draw.io Online or Download Software from [GitHub](https://github.com/jgraph/drawio){:target="_blank"}
+
+* [Lucidchart](https://www.lucidchart.com/pages){:target="_blank"}: Access Online or Download Software
+
 ## VPN and Development
 
 * [GoVPN Client](https://go.wmich.edu/s/article/GoVPN-Virtual-Private-Network){:target="_blank"}: VPN for Internal Network Access from Off-Campus Locations
