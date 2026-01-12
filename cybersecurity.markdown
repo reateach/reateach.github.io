@@ -14,8 +14,11 @@ permalink: /cybersecurity/
 
 # Threat Modeling
 
-* [OWASP Threat Modeling](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html){:target="_blank"}: Threat Model Overview
+* [OWASP Threat Modeling](https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html){:target="_blank"}: Threat Model Overview - **Important Read**
+* [Manifesto](https://www.threatmodelingmanifesto.org/){:target="_blank"}: Threat Model Manifesto
 * [OWASP Threat Dragon](https://www.threatdragon.com/#/dashboard){:target="_blank"}: Threat Dragon Modeling Software
+* [OWASP Threat Dragon Examples](https://www.threatdragon.com/#/demo/select){:target="_blank"}: Threat Dragon Examples
+* [draw.io Examples](https://github.com/michenriksen/drawio-threatmodeling){:target="_blank"}: GitHub Examples
 * [Microsoft Treat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool){:target="_blank"}: Microsoft Threat Modeling Tool
 
 
