@@ -9,6 +9,7 @@ permalink: /diagrams/
 ### Activity
 
 * [Overview](https://www.geeksforgeeks.org/system-design/unified-modeling-language-uml-activity-diagrams/)
+* [Tutorial](https://sparxsystems.com/resources/tutorials/uml2/activity-diagram.htmlhttps://sparxsystems.com/resources/tutorials/uml2/activity-diagram.html)
 * [Samples and Examples](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-activity-diagram/)
 
 ### Entity Relationship
