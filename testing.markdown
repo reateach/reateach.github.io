@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software Security Testing
+title: Testing
 permalink: /testing/
 ---
 
