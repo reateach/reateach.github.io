@@ -6,6 +6,15 @@ permalink: /software/
 
 # Software Resources
 
+## Docker
+
+* [Docker](https://www.docker.com/){:target="_blank"}: Docker
+* [Ubuntu Install](https://docs.docker.com/engine/install/ubuntu/){:target="_blank"}: Docker on Ubuntu
+* [Docker Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html#rule-2-set-a-user){:target="_blank"}: OWASP Docker Security
+* [Run as Non-Root](https://dev.to/kfir-g/securing-docker-non-root-user-best-practices-odb){:target="_blank"}: More Secure Containers
+* [Run as Another User](https://bright-softwares.com/blog/en/kubernetes/should-a-docker-container-run-as-root-or-user){:target="_blank"}: Why it is better to run as non-root
+
+
 ## Office365 and WebEx
 
 * [Office365](https://wexchanage.wmich.edu){:target="_blank"}: Access Office365 Online or Download Software
