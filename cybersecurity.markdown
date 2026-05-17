@@ -21,6 +21,8 @@ permalink: /cybersecurity/
 * [draw.io Examples](https://github.com/michenriksen/drawio-threatmodeling){:target="_blank"}: GitHub Examples
 * [Microsoft Threat Model](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool){:target="_blank"}: Microsoft Threat Modeling Tool
 
+# Cyber Kill Chain
 
+* [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html){:target="_blank"}: Lockheed Martin's Cyber Kill Chain 
 
 
