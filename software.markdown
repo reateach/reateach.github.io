@@ -21,11 +21,15 @@ permalink: /software/
 * [Teams](https://teams.microsoft.com){:target="_blank"}: Download MS Teams software 
 * [WebEx](https://wmich.webex.com){:target="_blank"}: Access WebEx Online or Download Software
 
+## Design
+* [Canva](https://www.canva.com/){:target="_blank"}: Canva
+* [Figma](https://www.figma.com/){:target="_blank"}: Figma
 
 ## Diagramming
 
 * [MS Visio](https://www.microsoft.com/en-us/microsoft-365/visio/visio-in-microsoft-365?msockid=0d58dd500e8a6a0b1f45cb7f0f996b23){:target="_blank"}: MS Visio Online or Download Software
 * [Draw.io](https://www.drawio.com/){:target="_blank"}: Draw.io Online or Download Software from [GitHub](https://github.com/jgraph/drawio){:target="_blank"}
+* [Figma](https://www.figma.com/){:target="_blank"}: Figma
 * [Lucidchart](https://www.lucidchart.com/pages){:target="_blank"}: Access Online
 
 ## VPN and Development
